@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently expanding my knowledge in **MySql**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <p>https://www.linkedin.com/in/rafael-garcia-lopez-b34b757a/</p>
 <p align="left">
 </p>
 
